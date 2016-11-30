@@ -4,7 +4,7 @@
 
 # Screenshot
 
-![Awesome Movies](http://imgur.com/NJrPhmI.png)
+![Awesome Movies](http://imgur.com/Wqq9PGZ.png)
 
 ## License
 
