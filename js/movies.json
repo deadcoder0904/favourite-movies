@@ -1,16 +1,22 @@
 {
 	"movies" : [
+							"Pulp Fiction",
 							"The Usual Suspects",
 							"The Shawshank Redemption",
 							"Se7en",
 							"Fight Club",
 							"Good Will Hunting",
 							"The Wolf of Wall Street",
+							"Laal Rang",
+							"Hum Dil De Chuke Sanam",
+							"Rahasya",
+							"Talvar",
+							"Gupt",
+							"Aashiqui 2",
+							"Rock On",
 							"Pirates of the Caribbean: The Curse of the Black Pearl",
 							"Pirates of the Caribbean: Dead Man's Chest",
 							"Pirates of the Caribbean: At World's End",
 							"Pirates of the Caribbean: On Stranger Tides",
-							"Laal Rang",
-							"Hum Dil De Chuke Sanam"
 						]
 }
