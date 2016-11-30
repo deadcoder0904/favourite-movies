@@ -1,5 +1,11 @@
 # favourite-movies
 
+> My :cupid: Favourite Movies :ghost:
+
+# Screenshot
+
+![Awesome Movies](http://imgur.com/RDcFvKr.png)
+
 ## License
 
 [MIT](LICENSE.md) © [Akshay Kadam](https://github.com/deadcoder0904)
