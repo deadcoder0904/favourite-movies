@@ -3,7 +3,7 @@ $(document).ready(() => {
 	const { movies } = require('./movies.json');
 	let i = 0;
 	while (i < movies.length) {
-		setInterval(getMovies(movies[i]), 500);
+		if (i % 8 === 0) for (let k = 0; k < 10000000; k++) {} else getMovies(movies[i]);
 		i++;
 	}
 });
