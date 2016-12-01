@@ -1,20 +1,10 @@
 $(document).ready(() => {
 	const { movies }= require('./movies.json')
-	let i = 0;
-	while (i < movies.length) {
-		if(i % 8 === 0)
-			for (let k = 0; k < 10000000; k++) {
-
-			}
-		else getMovies(movies[i]);
-		i++;
-	}
-});
-
-function getMovies(movies) {
 	const movieDetails = $("#movieDetails:first");
 	let arr = [];
-	$.getJSON("http://www.omdbapi.com/?t=" + movies.toLowerCase() + "&y=&plot=short&r=json",(data) => {
+	let i = 0;
+	while (i < movies.length) {
+		$.getJSON("http://www.omdbapi.com/?t=" + movies[i].toLowerCase() + "&y=&plot=short&r=json",(data) => {
 			console.log(data);
 			arr = [];
 			const poster = data.Poster === 'N/A' ? 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvLE-IihC94Yf8QrtQCH_DZRN7o4P4t9FPnPM96SneH6_gEHCkvg': data.Poster;
@@ -28,5 +18,7 @@ function getMovies(movies) {
 	    arr.push("</div>");
 			arr.push("</a>");
 			movieDetails.append(arr.join(''));
-	});
-}
+		});
+		i++;
+	}
+});
