@@ -4,9 +4,10 @@ $(document).ready(() => {
 	let arr = [];
 	let i = 0;
 	while (i < movies.length) {
-		$.getJSON("http://www.omdbapi.com/?t=" + movies[i].toLowerCase() + "&y=&plot=short&r=json",(data) => {
+		const poster = movies[i].poster;
+		$.getJSON("http://www.omdbapi.com/?t=" + movies[i].name.toLowerCase() + "&y=&plot=short&r=json",(data) => {
+			console.log(data.Title + '->' + data.Poster);
 			arr = [];
-			const poster = data.Poster === 'N/A' ? 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvLE-IihC94Yf8QrtQCH_DZRN7o4P4t9FPnPM96SneH6_gEHCkvg': data.Poster;
 			arr.push("<a target='_blank' href='http://www.imdb.com/title/" + data.imdbID + "' class='fl w-50 w-25-l link overflow-hidden'>");
 	    arr.push("<div class='ba b--black-10 pa2 grow'>");
 	    arr.push("<div class='grow aspect-ratio--4x6' style='background: url(" + poster + ") no-repeat center center; background-size: cover;'>");
