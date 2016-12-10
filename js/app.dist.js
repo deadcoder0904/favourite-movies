@@ -7,7 +7,6 @@ $(document).ready(() => {
 	while (i < movies.length) {
 		const poster = movies[i].poster;
 		$.getJSON("http://www.omdbapi.com/?t=" + movies[i].name.toLowerCase() + "&y=&plot=short&r=json", data => {
-			console.log(data.Title + '->' + data.Poster);
 			arr = [];
 			arr.push("<a target='_blank' href='http://www.imdb.com/title/" + data.imdbID + "' class='fl w-50 w-25-l link overflow-hidden'>");
 			arr.push("<div class='ba b--black-10 pa2 grow'>");
