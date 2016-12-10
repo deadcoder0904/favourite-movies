@@ -340,7 +340,7 @@ module.exports={
 							},
 							{
 								"name": "Rock On",
-								"poster": "http://media1.santabanta.com/full1/Bollywood%20Movies/Rock%20On/roc9e.jpg"
+								"poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM2NjIwODc4N15BMl5BanBnXkFtZTcwMDgwMzM4MQ@@._V1_UY268_CR1,0,182,268_AL__QL50.jpg"
 							},
 							{
 								"name": "Natsamrat",
