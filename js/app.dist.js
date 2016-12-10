@@ -83,6 +83,14 @@ module.exports={
 								"poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzk5ZmQxMWYtM2QyNi00MTY3LTlmNjItYjUwODY3Y2YwOTIwXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg"
 							},
 							{
+								"name": "Now You See Me",
+								"poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY0NDY3MDMxN15BMl5BanBnXkFtZTcwOTM5NzMzOQ@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+							},
+							{
+								"name": "The Prestige",
+								"poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+							},
+							{
 								"name": "NightCrawler",
 								"poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjM5NjkzMjE5MV5BMl5BanBnXkFtZTgwNTMzNTk4MjE@._V1_SX300.jpg"
 							},
@@ -356,7 +364,7 @@ module.exports={
 							},
 							{
 								"name": "Pak Pak Pakaak",
-								"poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYzdlZmYxNWYtODJjYy00MTg5LWEyZmItM2M5NDRkMTkxMDk5XkEyXkFqcGdeQXVyNDU5MzA2NzI@._V1_SX300.jpg"
+								"poster": "http://marathimovieworld.com/images/pak-pak-pakaak-film-posters.jpg"
 							},
 							{
 								"name": "Natarang",
