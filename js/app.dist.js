@@ -39,6 +39,10 @@ module.exports={
 								"poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BODU4MjU4NjIwNl5BMl5BanBnXkFtZTgwMDU2MjEyMDE@._V1_SX300.jpg"
 							},
 							{
+								"name": "Mulholland Drive",
+								"poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNWM2MDZmMDgtYjViOS00YzBmLWE4YzctMDMyYTQ2YTc4MmVkXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+							},
+							{
 								"name": "Se7en",
 								"poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQwNTU3MTE4NF5BMl5BanBnXkFtZTcwOTgxNDM2Mg@@._V1_SX300.jpg"
 							},
