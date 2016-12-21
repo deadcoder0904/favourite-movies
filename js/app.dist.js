@@ -103,6 +103,10 @@ module.exports={
 								"poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg"
 							},
 							{
+								"name": "Million Dollar Baby",
+								"poster": "http://www.gstatic.com/tv/thumb/movieposters/35226/p35226_p_v8_ae.jpg"
+							},
+							{
 								"name": "Ratatouille",
 								"poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_SX300.jpg"
 							},
@@ -112,7 +116,7 @@ module.exports={
 							},
 							{
 								"name": "Sangharsh",
-								"poster": "http://ia.media-imdb.com/images/M/MV5BMzI1YjMyZjctMzQxMC00MTY4LTk5YjUtYzU2N2I0MTYyODBjXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SX300.jpg"
+								"poster": "https://upload.wikimedia.org/wikipedia/en/3/3b/Sansgharshposter.jpg"
 							},
 							{
 								"name": "Kaal",
@@ -144,11 +148,11 @@ module.exports={
 							},
 							{
 								"name": "Darna Mana Hai",
-								"poster": "http://ia.media-imdb.com/images/M/MV5BMTQ0Njk4NTQyM15BMl5BanBnXkFtZTcwNzg2ODgzMQ@@._V1_SX300.jpg"
+								"poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ0Njk4NTQyM15BMl5BanBnXkFtZTcwNzg2ODgzMQ@@._V1_UY268_CR3,0,182,268_AL_.jpg"
 							},
 							{
 								"name": "Darna Zaroori Hai",
-								"poster": "http://ia.media-imdb.com/images/M/MV5BMTY2NjAzMTA5NV5BMl5BanBnXkFtZTcwMjY4MjY0MQ@@._V1_SX300.jpg"
+								"poster": "https://webmazain.files.wordpress.com/2009/12/darnazaroorihai28200629.jpg"
 							},
 							{
 								"name": "Once Upon a Time in Mumbai",
@@ -156,7 +160,7 @@ module.exports={
 							},
 							{
 								"name": "Ek Thi Daayan",
-								"poster": "http://ia.media-imdb.com/images/M/MV5BMmE2Y2ZmODgtZjM2NS00NDUzLTk1ZjItNDdhYzEwYmZiY2Q4XkEyXkFqcGdeQXVyMzA3MDU4MTk@._V1_SX300.jpg"
+								"poster": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Ek_Thi_Poster.jpg/220px-Ek_Thi_Poster.jpg"
 							},
 							{
 								"name": "Baazigar",
@@ -180,7 +184,7 @@ module.exports={
 							},
 							{
 								"name": "Ab Tak Chhappan",
-								"poster": "http://ia.media-imdb.com/images/M/MV5BMzNkYzEyMDItNWI1OS00YjYxLTljNDUtYzZkYWFhMzdjNjg1XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SX300.jpg"
+								"poster": "http://lb.cineklik.com/images/tb/150x220//movie_photos/ab_tak_chhappan_2_poster.jpeg.jpg"
 							},
 							{
 								"name": "Ab Tak Chhappan 2",
@@ -196,11 +200,11 @@ module.exports={
 							},
 							{
 								"name": "Dus Kahaniyaan",
-								"poster": "http://ia.media-imdb.com/images/M/MV5BMzUyODM0MDEyOF5BMl5BanBnXkFtZTgwNjcyMTA2MDE@._V1_SX300.jpg"
+								"poster": "http://www.gstatic.com/tv/thumb/movieposters/174959/p174959_p_v8_aa.jpg"
 							},
 							{
 								"name": "Taxi No. 9 2 11: Nau Do Gyarah",
-								"poster": "http://ia.media-imdb.com/images/M/MV5BOTgxMTc0NTItODUyYy00ODY1LTg0NDEtZGI0MzQxZGY5NmFhXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SX300.jpg"
+								"poster": "http://cdn.albumart.in/albums/4922/12baba91ab021505eda8090218653650-500x500.jpg"
 							},
 							{
 								"name": "Agni Sakshi",
@@ -212,11 +216,11 @@ module.exports={
 							},
 							{
 								"name": "Krantiveer",
-								"poster": "http://ia.media-imdb.com/images/M/MV5BMTI3MTcxNDk5Nl5BMl5BanBnXkFtZTcwNjkxNDE0MQ@@._V1_SX300.jpg"
+								"poster": "https://upload.wikimedia.org/wikipedia/en/5/55/Krantiveer.jpg"
 							},
 							{
 								"name": "Satya",
-								"poster": "http://ia.media-imdb.com/images/M/MV5BMTMwMjk3MzA2OF5BMl5BanBnXkFtZTcwNjU2ODgzMQ@@._V1_SX300.jpg"
+								"poster": "https://upload.wikimedia.org/wikipedia/en/1/12/Satya.jpg"
 							},
 							{
 								"name": "Traffic Signal",
@@ -228,7 +232,7 @@ module.exports={
 							},
 							{
 								"name": "Nayak: The Real Hero",
-								"poster": "http://ia.media-imdb.com/images/M/MV5BMDYwMzRmY2YtZWM4Mi00MmViLTk1OWUtYTU1MzYzMDU0MTE1XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SX300.jpg"
+								"poster": "http://www.gstatic.com/tv/thumb/movieposters/28331/p28331_p_v8_aa.jpg"
 							},
 							{
 								"name": "Lage Raho Munna Bhai",
@@ -272,11 +276,11 @@ module.exports={
 							},
 							{
 								"name": "Diljale",
-								"poster": "http://ia.media-imdb.com/images/M/MV5BMTU2NDcxNTU5N15BMl5BanBnXkFtZTgwNTA4NTQxNjE@._V1_SX300.jpg"
+								"poster": "https://upload.wikimedia.org/wikipedia/en/8/89/Diljalefilm.jpg"
 							},
 							{
 								"name": "Hulchul",
-								"poster": "http://ia.media-imdb.com/images/M/MV5BNTA2ODkwNTM2OV5BMl5BanBnXkFtZTgwMTE0MDA2MDE@._V1_SX300.jpg"
+								"poster": "https://upload.wikimedia.org/wikipedia/en/8/8f/Hulchul_FilmPoster.jpeg"
 							},
 							{
 								"name": "Hungama",
@@ -332,7 +336,7 @@ module.exports={
 							},
 							{
 								"name": "Sunday",
-								"poster": "http://ia.media-imdb.com/images/M/MV5BMTYyMzk5Mjk4NF5BMl5BanBnXkFtZTgwMDU5MTA2MDE@._V1_SX300.jpg"
+								"poster": "http://www.gstatic.com/tv/thumb/dvdboxart/177555/p177555_d_v7_aa.jpg"
 							},
 							{
 								"name": "Vaastav: The Reality",
