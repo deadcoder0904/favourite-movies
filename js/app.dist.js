@@ -339,6 +339,14 @@ module.exports={
 								"poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYzZjNzE4MjMtODExYS00MGJhLWJmZDUtMmJkYWZlN2VjNTkzXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
 							},
 							{
+								"name": "Gadar: Ek Prem Katha",
+								"poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZTQ2YjdlMTItY2RlNC00MjNlLWE2ODEtNjMxM2E3YjNlMzU2XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY268_CR7,0,182,268_AL__QL50.jpg"
+							},
+							{
+								"name": "Ab Tumhare Hawale Watan Saathiyo",
+								"poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzc2ODUwMGUtZjA0ZS00N2FhLWI2YWMtYjk5NTA0MmEyN2ExXkEyXkFqcGdeQXVyMjU4NDY1ODA@._V1_UY268_CR87,0,182,268_AL__QL50.jpg"
+							},
+							{
 								"name": "Golmaal: Fun Unlimited",
 								"poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYmE3YmNiM2YtM2MxMi00ZDhmLTk1ZTQtODdjOWY4YjVkYThmXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SX300.jpg"
 							},
